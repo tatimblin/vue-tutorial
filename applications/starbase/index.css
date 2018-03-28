@@ -1,0 +1,17 @@
+body {
+    background-color: #434555;
+}
+
+#app {
+    font-family: Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -mox-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+}
+
+.character-card {
+    border: 2px solid #efd64c;
+    border-radius: 3px;
+}
